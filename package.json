@@ -42,6 +42,13 @@
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "vue": "^3.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XcodeFish/context-menu-plugin"
+  },
+  "bugs": {
+    "url": "https://github.com/XcodeFish/context-menu-plugin/issues"
+  },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
